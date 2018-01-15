@@ -20,4 +20,4 @@ We are both collaborators on the same repo and will both commit changes.
 
 ### Task 9: Ben - Edited five CSS properties.
 
-### Task 10: Dan - 
+### Task 10: Dan - You should edit an HTML file. Add a paragraph about something you like.
