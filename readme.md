@@ -14,7 +14,7 @@ We are both collaborators on the same repo and will both commit changes.
 
 ### Task 6: Dan - You should edit five CSS properties.
 
-### Task 7: Ben - 
+### Task 7: Ben - Created a new HTML file and linked to it from index.html
 
 ### Task 8: Dan - 
 
