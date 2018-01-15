@@ -8,11 +8,11 @@ We are both collaborators on the same repo and will both commit changes.
 
 ### Task 3: Ben - Edited an HTML file with a paragraph about something I like. 
 
-### Task 4: Dan - You should create a new CSS file. Link to it from one of your HTML files.
+### Task 4: Dan - Created style.css and linked it to index.html.
 
-### Task 5: Ben - p
+### Task 5: Ben - Removed a file other than index.html.
 
-### Task 6: Dan -
+### Task 6: Dan - You should edit five CSS properties.
 
 ### Task 7: Ben - 
 
