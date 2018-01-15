@@ -9,3 +9,24 @@ body {
     display: flex;
     justify-content: center;
 }
+
+
+p {
+    color: red; 
+}
+
+header {
+    color: green; 
+}
+
+footer {
+    color: black; 
+}
+
+main {
+    color: blue; 
+}
+
+aside {
+    color: orange; 
+}

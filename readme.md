@@ -18,6 +18,6 @@ We are both collaborators on the same repo and will both commit changes.
 
 ### Task 8: Dan - You should edit an HTML file. Add a recipe that you like using lists. 
 
-### Task 9: Ben - 
+### Task 9: Ben - Edited five CSS properties.
 
 ### Task 10: Dan - 
