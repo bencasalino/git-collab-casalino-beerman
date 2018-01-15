@@ -16,7 +16,7 @@ We are both collaborators on the same repo and will both commit changes.
 
 ### Task 7: Ben - Created a new HTML file and linked to it from index.html
 
-### Task 8: Dan - 
+### Task 8: Dan - You should edit an HTML file. Add a recipe that you like using lists. 
 
 ### Task 9: Ben - 
 
